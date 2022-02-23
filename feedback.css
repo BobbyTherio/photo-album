@@ -1,0 +1,32 @@
+input {
+border-radius: 5px;
+border: 1px solid #ccc;
+padding: 4px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+width: 300px;
+margin-top: 10px;
+}
+
+label.error {
+color: red;
+font-size: 1rem;
+display: block;
+margin-top: 5px;
+}
+
+input.error {
+border: 2px solid red;
+font-weight: 300;
+color: red;
+}
+
+.submitbutton {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left: 0;
+border-radius: 10px;
+border: none;
+background: rgb(46, 46, 46);
+color: white;
+font-weight: 300;
+padding: 10px
+} 
